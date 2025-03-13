@@ -1,0 +1,7 @@
+selenium 
+seleniumbase
+undetected-chromedriver
+selenium-stealth
+pandas
+webdriver-manager
+openpyxl
